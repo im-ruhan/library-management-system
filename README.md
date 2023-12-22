@@ -10,7 +10,6 @@ This is a Ruby on Rails application for a Library Management System. The system 
 
 - Ruby (version 3.0.0)
 - Ruby on Rails (version 7.0.0)
-- ...
 
 ### Installation
 
