@@ -8,8 +8,8 @@ This is a Ruby on Rails application for a Library Management System. The system 
 
 ### Prerequisites
 
-- Ruby (version X.X.X)
-- Ruby on Rails (version X.X.X)
+- Ruby (version 3.0.0)
+- Ruby on Rails (version 7.0.0)
 - ...
 
 ### Installation
@@ -17,7 +17,7 @@ This is a Ruby on Rails application for a Library Management System. The system 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/library-management-system.git
+    git clone https://github.com/codinghexagon/library-management-system
     ```
 
 2. Change into the project directory:
